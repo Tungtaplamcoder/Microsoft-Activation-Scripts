@@ -140,7 +140,7 @@ popd
 
 cls
 color 07
-title  HWID Activation %masver%
+title AIO Activation %masver%
 
 set _args=
 set _elev=
@@ -2167,3 +2167,4 @@ exit /b
 
 ::========================================================================================================================================
 :: Leave empty line below
+
