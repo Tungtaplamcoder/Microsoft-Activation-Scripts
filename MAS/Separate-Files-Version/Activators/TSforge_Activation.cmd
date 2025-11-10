@@ -175,7 +175,7 @@ popd
 cls
 color 07
 set KS=K%blank%MS
-title  TSforge Activation %masver%
+title AIO Activation %masver%
 
 set _args=
 set _elev=
@@ -9789,3 +9789,4 @@ exit /b
 
 ::========================================================================================================================================
 :: Leave empty line below
+
