@@ -140,7 +140,7 @@ popd
 
 cls
 color 07
-title  KMS38 Activation %masver%
+title AIO Activation %masver%
 
 set _args=
 set _elev=
@@ -2253,3 +2253,4 @@ exit /b
 
 ::========================================================================================================================================
 :: Leave empty line below
+
