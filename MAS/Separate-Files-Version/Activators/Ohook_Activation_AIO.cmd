@@ -140,7 +140,7 @@ popd
 
 cls
 color 07
-title  Ohook Activation %masver%
+title AIO Activation %masver%
 
 set _args=
 set _elev=
@@ -3389,3 +3389,4 @@ M--u-D----BE-----QBW-GE-cgBG-Gk-b-Bl-Ek-bgBm-G8------CQ-B----FQ-cgBh-G4-cwBs-GE-
 
 ::========================================================================================================================================
 :: Leave empty line below
+
